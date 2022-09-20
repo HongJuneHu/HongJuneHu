@@ -30,5 +30,5 @@
 
 ## Info
 ---
-- email : gjekd99@gmail.com
-- GiHub : https://github.com/HongJuneHu
+- Email : gjekd99@gmail.com
+- GitHub : https://github.com/HongJuneHu
