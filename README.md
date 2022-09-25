@@ -13,11 +13,13 @@
 
 <br></br>
 
-## BaekJoon Status
+<!--## BaekJoon Status-->
+<!--
 ---
 <br></br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gjekd99)](https://solved.ac/gjekd99/)
 <br></br>
+-->
 
 ## GitHub Status
 ---
