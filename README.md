@@ -32,7 +32,7 @@
 </div>
 
 <div>
-  <h2><strong>My Papers</strong></h2>
+  <h2><strong>Papers</strong></h2>
   <li><a href="https://www.mdpi.com/2079-9292/14/1/25">Latent Diffusion Models for Image Wawtermarking: A Review of Recent Trends and Future Directions</a></li>
 </div>
 
