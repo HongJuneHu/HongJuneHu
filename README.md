@@ -25,10 +25,10 @@
 
 <div>
   <h2><strong>Main Projects</strong></h2>
-  OCR 인식 개선 연구
-  춘천 성심 병원 - 두통 정량화
-  리듬 게임 AI Bot
-  재녹음 공격에 견고한 오디오 워터마킹
+  <li>OCR 인식 개선 연구</li>
+  <li>춘천 성심 병원, 두통 정량화</li>
+  <li>리듬 게임 AI Bot</li>
+  <li>재녹음 공격에 견고한 오디오 워터마킹</li>
 </div>
 
 <div>
