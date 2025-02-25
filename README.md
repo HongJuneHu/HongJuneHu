@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hong%20June%20Hu&animation=twinkling&fontColor=ffffff&fontSize=90)
 
 
-<div align="center">
+<div align="left">
 <br> </br>
 <h2> <strong>Who am I?</strong> </h2> 
   <li>Department of Computer Engineering, Hallym University</li>
