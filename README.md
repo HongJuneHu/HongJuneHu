@@ -5,7 +5,7 @@
 <br> </br>
 <h2> <strong>Who am I?</strong> </h2> 
   <li>Department of Computer Engineering, Hallym University</li>
-  <li>Graduate Student in [MMC Lab](https://mmc.hallym.ac.kr/) (Muiltimedia Laboratory)</li>
+  <li><a href="https://mmc.hallym.ac.kr/" target="_blank">Graduate Student in MMC Lab (Multimedia Laboratory)</a></li>
 <br></br>
 </div>
 <div>
