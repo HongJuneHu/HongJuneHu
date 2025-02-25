@@ -9,7 +9,7 @@
 <br></br>
 </div>
 <div>
-  <h2> <strong> Interesting Things </h2>
+  <h2> <strong> 👀 Interesting Things </h2>
   <li>Computer Vision</li>
   <li>Digital Watermarking</li>
   <li>Generative Models</li>
@@ -24,7 +24,7 @@
 </div>
 
 <div>
-  <h2><strong>Main Projects</strong></h2>
+  <h2><strong> 📁 Main Projects</strong></h2>
   <li>OCR 인식 개선 연구</li>
   <li>춘천 성심 병원, 두통 정량화</li>
   <li>리듬 게임 AI Bot</li>
@@ -32,7 +32,7 @@
 </div>
 
 <div>
-  <h2><strong>Papers</strong></h2>
+  <h2><strong>📄Papers</strong></h2>
   <li><a href="https://www.mdpi.com/2079-9292/14/1/25">Latent Diffusion Models for Image Wawtermarking: A Review of Recent Trends and Future Directions</a></li>
 </div>
 
